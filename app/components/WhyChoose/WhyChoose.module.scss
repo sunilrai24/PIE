@@ -1,0 +1,49 @@
+.whyChoosePie {
+  .choosePieHeader {
+    text-align: center;
+    font-family: Proxima Nova;
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 120px;
+  }
+  .choosePieCard {
+    display: flex;
+    margin: 0px 80px 160px;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .whyChooseCard {
+    width: 360px;
+    height: auto;
+    .whyChooseCardLogo {
+      display: flex;
+      width: 140px;
+      height: 140px;
+      padding: 30px 40px;
+      border-radius: 120px;
+      border: 2px solid #9259E7;
+      border-color: rgba(146, 89, 231, 1), rgba(244, 96, 51, 1);
+      
+      margin: 0 auto;
+      align-items: center;
+      margin-bottom: 40px;
+    }
+    .whyChooseCardTitle {
+      text-align: center;
+      font-family: DIN OT;
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 160%;
+      margin-bottom: 40px;
+    }
+    .whyChooseCardDescription {
+      text-align: center;
+      font-family: Inter;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 300;
+      line-height: 160%;
+    }
+    margin-bottom: 160px;
+  }
+}

@@ -1,0 +1,29 @@
+.save-time-by{
+    display: flex;
+    width: 1280;
+}
+.savetimeby{
+    display: flex;
+    justify-content: center;
+    margin-top: 33px;
+    margin-bottom: 160px;
+}
+.pietext {
+    padding: 45px 0px 45px 0px;
+    width: 795px;
+    height: auto;
+    font-family: DIN OT;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+  }
+  .piePerCentage {
+    font-weight: 900;
+    font-family: DIN OT;
+    font-size: 160px;
+    margin-left: 80px;
+    background: linear-gradient(180deg, #f46033 0%, #9259e7 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

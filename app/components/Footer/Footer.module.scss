@@ -1,0 +1,20 @@
+.footer {
+  border-top: 1px solid #f2f2f2;
+  display: flex;
+  justify-content: space-evenly; //add by me not in figma
+  padding-top: 61px;
+
+  .footerText {
+    width: 200px;
+    padding: 16px 16px 16px 0px;
+    ul {
+      ol {
+        font-family: Nunito Sans;
+        font-size: 18px;
+        // font-weight: 700;
+        padding: 4px;
+        margin-bottom: 8px;
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.empowerBusiness {
+  .businessHeader {
+    text-align: center;
+    font-family: Proxima Nova;
+    font-size: 80px;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  .businessSubHeader {
+    text-align: center;
+    font-family: DIN OT;
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 120px;
+  }
+  .businessImageText {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+    .businessText {
+      font-family: Proxima Nova;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 40px;
+      display: flex;
+      justify-content: center;
+      width: 420px;
+    }
+    .businessSubText {
+      font-family: DIN OT;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 160%;
+      text-align: center;
+      width: 420px;
+    }
+  }
+}
